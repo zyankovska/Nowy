@@ -1,1 +1,1 @@
-# Nowy
+# Nowy projekt
